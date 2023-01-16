@@ -9,9 +9,13 @@ The configured slash command can be used to manage your pet, and you will find m
 1. QBCore supported.
 2. Custom QBCore rename supported in config.
 3. Fully configurable.
-4. Fully Open-Source.
+4. Open-Source.
 5. Pet can get ill too and you'll have to take them at pet clinic to get them cured.
 6. Pet has a food and health system so they can die
 
 # How to install
-https://github.com/LumioStudio/Lumio-Pets
+**Rename Core**
+*Go to ``shared.lua`` and search for this:
+```
+Config.Corename = 'qb-core'
+```
