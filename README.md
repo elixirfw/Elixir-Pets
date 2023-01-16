@@ -1,5 +1,5 @@
 # Elixir Pets
-Available here:
+Available here: https://elixirfw.tebex.io/package/5475701
 
 # Info
 We have created a script that allows you to buy, own, and take care of animals / pets! In addition to being fully configurable, it is also very easy to use.
